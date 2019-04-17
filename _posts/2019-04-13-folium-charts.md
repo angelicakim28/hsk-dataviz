@@ -1,5 +1,5 @@
 ---
-title: "Embedding Folium charts"
+title: "Embedding Folium charts - from Nick Hand"
 date: 2019-04-13
 published: true
 tags: [dataviz, folium]

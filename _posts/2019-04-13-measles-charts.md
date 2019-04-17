@@ -1,5 +1,5 @@
 ---
-title: "1 Chart, 3 Libraries"
+title: "1 Chart, 3 Libraries - from Nick Hand"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, vega-lite, observable, holoviews]
